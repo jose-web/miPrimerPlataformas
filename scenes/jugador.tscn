@@ -28,7 +28,7 @@ extents = Vector2( 52.8302, 62.2837 )
 scale = Vector2( 5, 5 )
 texture = ExtResource( 1 )
 hframes = 11
-frame = 4
+frame = 6
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="."]
 playback_speed = 5.0
